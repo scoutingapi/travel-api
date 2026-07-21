@@ -1,3 +1,3 @@
-module github.com/scoutingapi/travel-api/examples/go
+module github.com/stayingapi/travel-api/examples/go
 
 go 1.22
